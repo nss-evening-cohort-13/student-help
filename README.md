@@ -42,6 +42,7 @@ Click "Submit new issue"
 1. Continue searching for a solution to your issue
 1. See if you can help another classmate
 1. Patiently await help
+> ![Wait](./assets/tenor.gif)
 
 
 
