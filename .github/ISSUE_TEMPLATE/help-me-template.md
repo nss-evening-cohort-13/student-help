@@ -8,7 +8,6 @@ assignees: ''
 ---
 
 ##### Please use this template when creating a new "help ticket"! 👇👇👇 
-
 ##### _Incomplete tickets will not be evaluated._
 ---
 #### Name:
@@ -27,3 +26,5 @@ assignees: ''
 
 #### What have you tried?
 > Ex: I've tried re-tracing where props are coming from
+
+#### Code Snippet (If applicable)
