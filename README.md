@@ -43,7 +43,7 @@ Click "Submit new issue"
 > ![Issues](./assets/step6.png)
 
 #### Step 8
-1. Continue searching for a solution to your issue
+1. Continue searching for a solution to your issue **(If you find a solution, close your issue)**
 1. See if you can help another classmate
 1. Patiently await help
 > ![Wait](./assets/tenor.gif)
