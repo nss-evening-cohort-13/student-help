@@ -13,7 +13,7 @@ Follow the steps below to ask for help.
 ### Step 1
 1. Navigate to issues
 2. Check both opened and closed issues to see if someone else had your same issue
-> ![Issues](./assets/navigate-to-issues.png)
+> ![Issues](./assets/navigate-to-issues.png) 
 
 ### Step 2
 Click "New Issue"
