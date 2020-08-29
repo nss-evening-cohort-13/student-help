@@ -13,7 +13,7 @@ assignees: ''
 
 #### Have you searched the other issue tickets? If not, do that first. 
 - [ ] Yes
-- [ ] No
+- If No, stop and search.
 
 #### Describe your issue:
 
