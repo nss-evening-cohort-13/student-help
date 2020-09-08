@@ -43,5 +43,5 @@ PASTE YOUR CODE BETWEEN THE BACKTICS
 
 #### Add Tags to Issue Ticket and Assign to Project Board (Check these prior to creating the issue ticket)
 These can be added in the column on the left
-- [ ] Added tag to specific project/assignment
+- [ ] Added label to specific project/assignment that you need help with
 - [ ] Added to `Student-Help` project board
