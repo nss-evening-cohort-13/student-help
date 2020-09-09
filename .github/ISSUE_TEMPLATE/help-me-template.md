@@ -18,7 +18,7 @@ assignees: ''
 #### Add Tags to Issue Ticket and Assign to Project Board (Check these prior to creating the issue ticket)
 These can be added in the column on the right
 - [ ] Added label to specific project/assignment that you need help with
-- [ ] Added to `Student-Help` project board
+- [ ] Added to `Student-Help-Tracking` project board
 
 #### Describe your issue:
 >>
