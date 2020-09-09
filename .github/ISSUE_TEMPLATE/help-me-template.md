@@ -15,6 +15,11 @@ assignees: ''
 - [ ] Yes
 - If No, stop and search.
 
+#### Add Tags to Issue Ticket and Assign to Project Board (Check these prior to creating the issue ticket)
+These can be added in the column on the right
+- [ ] Added label to specific project/assignment that you need help with
+- [ ] Added to `Student-Help` project board
+
 #### Describe your issue:
 >>
 
@@ -24,24 +29,19 @@ PASTE ERROR MESSAGE HERE
 ```
 
 #### What have you googled? (Paste links to the things you have found from your google search - You must have at least 3)
-1. 
-2. 
-3. 
+- [ ] 1. 
+- [ ] 2. 
+- [ ] 3. 
 
 #### REQUIRED: What have you tried? Tell us everything you have tried. 
 >>
 
-#### REQUIRED: Copy/paste link to the file on your branch that you are having issues with
-Your link: 
+#### REQUIRED: Copy/paste link TO THE FILE on your branch that you are having issues with
+We will not accept links to the whole repo. You must provide a link directly to the specific file
+**Your link:**
 
-#### Code Snippet (If applicable)
-PASTE YOUR CODE BETWEEN THE BACKTICS
-
-```
+#### Code Snippet
 
 ```
-
-#### Add Tags to Issue Ticket and Assign to Project Board (Check these prior to creating the issue ticket)
-These can be added in the column on the left
-- [ ] Added label to specific project/assignment that you need help with
-- [ ] Added to `Student-Help` project board
+PASTE YOUR CODE HERE BETWEEN THE BACKTICS
+```
