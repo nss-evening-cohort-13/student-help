@@ -1,5 +1,5 @@
 ---
-name: Custom issue template
+name: Discussion Template
 about: Use this to start discussions about topics. DO NOT USE FOR CODE ISSUES.
 title: 'CONVERSATION: PUT YOUR TOPIC HERE'
 labels: Join The Discussion
