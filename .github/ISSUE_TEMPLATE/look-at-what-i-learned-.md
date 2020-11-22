@@ -2,7 +2,7 @@
 name: Look at what I learned!
 about: 'TIL: Tell us what you learned today!'
 title: 'TIL: '
-labels: ''
+labels: TIL
 assignees: ''
 
 ---
