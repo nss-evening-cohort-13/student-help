@@ -1,12 +1,12 @@
 # Student Help Repo
 This repo will help instructors and students help each other with code and any other issues related to the coursework.
 
-Make sure to join the #ec-13-student-help slack channel to get updates on requests for help and to see other reported issues.
+Make sure to join the **`#ec-student-help`** slack channel to get updates on requests for help and to see other reported issues.
 
 [Here is a resource](https://guides.github.com/features/mastering-markdown/) to help you learn about markdown to style your code and submissions.
 
 ## How to ask for help
-Follow the steps below to ask for help. 
+Follow the steps below to ask for help
 
 ### Step 1
 1. Navigate to issues
