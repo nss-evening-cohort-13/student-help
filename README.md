@@ -18,7 +18,7 @@ Click "New Issue"
 > ![Issues](./assets/click-new-issue.png)
 
 ### Step 3
-Click "Get Started" on the _Help Me Template_
+Click "Get Started" on the Template you would like to use
 > ![Issues](./assets/click-get-started.png)
 
 ### Step 4
@@ -27,20 +27,10 @@ Click "Get Started" on the _Help Me Template_
 > ![Issues](./assets/step4.png)
 
 #### Step 5
-1. Click the cog icon next to **Projects**
-1. In the dropdown, click "Student Help Tracking" Option
-> ![Issues](./assets/step5.png)
-
-#### Step 6
-1. Click the cog icon next to **Assignees**
-1. Assign yourself to the issue _**(ONLY assign yourself)**_
-> ![Issues](./assets/step7.png)
-
-#### Step 7
 Click "Submit new issue"
 > ![Issues](./assets/step6.png)
 
-#### Step 8
+#### Step 6
 1. Continue searching for a solution to your issue **(If you find a solution, add a comment with your solution then remove the help wanted tag and add issue resolved)**
 1. See if you can help another classmate
 1. Patiently await help
