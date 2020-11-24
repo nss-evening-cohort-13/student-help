@@ -7,9 +7,7 @@
 - If No, stop and search.
 
 #### Add Tags to Issue Ticket and Assign to Project Board (Check these prior to creating the issue ticket)
-These can be added in the column on the right
-- [ ] Added label to specific project/assignment that you need help with
-- [ ] Added to `Student-Help-Tracking` project board
+- [ ] INSTRUCTORS: Add to `Capstone Student Help` project board
 
 #### Describe your issue:
 >>
@@ -28,7 +26,7 @@ PASTE ERROR MESSAGE HERE
 >>
 
 #### REQUIRED: Copy/paste link TO THE FILE on your branch that you are having issues with
-We will not accept links to the whole repo. You must provide a link directly to the specific file
+We will not accept links to the whole repo. You must provide a link directly to the specific file(s) associated with your request.
 **Your link:**
 
 #### Code Snippet
@@ -38,4 +36,7 @@ PASTE YOUR CODE HERE BETWEEN THE BACKTICS
 ```
 
 Are you having difficulties with API calls and/or functions making API requests? If so, have you tried sending the request through Postman. If so, what was the response? 
-````
+
+```
+PASTE YOUR CODE HERE BETWEEN THE BACKTICS
+```
