@@ -1,3 +1,12 @@
+---
+name: Capstone Issue Ticket
+about: 'Capstone'
+title: 'Capstone: '
+labels: Capstone
+assignees: ''
+
+---
+
 ##### _Incomplete tickets will not be evaluated._
 ---
 #### Your Name:
